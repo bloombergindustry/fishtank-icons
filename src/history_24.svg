@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="history">
+    <path id="tickers" d="M14.72,15,12,12.29V8.5a.5.5,0,0,0-1,0v3.88a.71.71,0,0,0,.28.61L14,15.72a.5.5,0,0,0,.71-.71Z"/>
+    <path id="circle" d="M12,20a8,8,0,1,1,8-8A8,8,0,0,1,12,20ZM12,6a6,6,0,1,0,6,6A6,6,0,0,0,12,6Z"/>
+  </g>
+</svg>

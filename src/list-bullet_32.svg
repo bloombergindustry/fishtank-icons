@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="list-bullet">
+    <rect id="line3" x="10" y="22" width="18" height="2"/>
+    <rect id="line2" x="10" y="15" width="18" height="2"/>
+    <rect id="line1" x="10" y="8" width="18" height="2"/>
+    <rect id="dot3" x="4.5" y="21.5" width="3" height="3" transform="translate(-14.51 10.98) rotate(-45)"/>
+    <rect id="dot2" x="4.5" y="14.5" width="3" height="3" transform="translate(-9.56 8.93) rotate(-45)"/>
+    <rect id="dot1" x="4.5" y="7.5" width="3" height="3" transform="translate(-4.61 6.88) rotate(-45)"/>
+  </g>
+</svg>

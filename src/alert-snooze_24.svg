@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="alert-snooze">
+    <path id="z" d="M20,10H14V8l3-3H14V3h6V5L17,8h3Z"/>
+    <path id="bell" d="M18,11H16v5H8V10a4,4,0,0,1,4-4c.38,0,1,.07,1,.17V4.1A3.39,3.39,0,0,0,12,4a6,6,0,0,0-6,6v6H4v2h6a2,2,0,0,0,4,0h6V16H18Z"/>
+  </g>
+</svg>

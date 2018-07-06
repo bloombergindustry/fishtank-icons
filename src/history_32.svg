@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="history">
+    <path id="circle" d="M16,28A12,12,0,1,1,28,16,12,12,0,0,1,16,28ZM16,6A10,10,0,1,0,26,16,10,10,0,0,0,16,6Z"/>
+    <path id="clockHands" d="M16,9a1,1,0,0,0-2,0v8.48l5.38,4.3a1,1,0,1,0,1.25-1.56S16,16.55,16,16.56,16,9,16,9Z"/>
+  </g>
+</svg>

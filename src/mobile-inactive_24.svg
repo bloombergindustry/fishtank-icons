@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="mobile-inactive">
+    <polygon id="x" points="20.8 8.8 19.2 7.2 16 10.41 12.8 7.2 11.2 8.8 14.41 12 11.2 15.2 12.8 16.8 16 13.59 19.2 16.8 20.8 15.2 17.59 12 20.8 8.8"/>
+    <path id="phone" d="M13,17v2H5V17H8v1h2V17h1V16H5V8h6V6H10V7H9V6H7V7H5V5h8V7h2V5a2,2,0,0,0-2-2H5A2,2,0,0,0,3,5V19a2,2,0,0,0,2,2h8a2,2,0,0,0,2-2V17Z"/>
+  </g>
+</svg>

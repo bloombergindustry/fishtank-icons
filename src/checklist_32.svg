@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="checklist">
+    <rect id="line3" x="14" y="23" width="14" height="2"/>
+    <rect id="line2" x="14" y="15" width="14" height="2"/>
+    <rect id="line1" x="14" y="7" width="14" height="2"/>
+    <polygon id="check3" points="10.61 21.03 6.49 25.15 4.79 23.45 4.08 24.15 5.79 25.86 6.49 26.57 7.2 25.86 11.32 21.74 10.61 21.03"/>
+    <polygon id="check2" points="10.61 13.03 6.49 17.15 4.79 15.45 4.08 16.15 5.79 17.86 6.49 18.57 7.2 17.86 11.32 13.74 10.61 13.03"/>
+    <polygon id="check1" points="10.61 5.03 6.49 9.15 4.79 7.45 4.08 8.15 5.79 9.86 6.49 10.57 7.2 9.86 11.32 5.74 10.61 5.03"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>icons_32_pt1</title>
+  <g id="chart-line-up">
+    <polyline id="axis" points="6 26 6 4 4 4 4 28 28 28 28 26"/>
+    <polygon id="chart" points="27.47 10.91 26.63 5.98 22.13 8.16 23.86 9.05 20.48 15.81 13.6 13.85 8.19 21.42 9.81 22.58 14.4 16.16 21.52 18.19 25.63 9.97 27.47 10.91"/>
+  </g>
+</svg>

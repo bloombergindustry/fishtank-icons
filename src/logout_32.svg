@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>icons_32_pt1</title>
+  <g id="logout">
+    <path id="shape" class="cls-1" d="M12,15H25V13.17L28.5,16,25,18.83V17H12a1,1,0,0,1,0-2ZM23,26.13A1.88,1.88,0,0,1,21.12,28H5.88A1.88,1.88,0,0,1,4,26.12V5.88A1.88,1.88,0,0,1,5.88,4H21.12A1.88,1.88,0,0,1,23,5.88V12H21V6H6V26H21V20h2Z"/>
+  </g>
+</svg>

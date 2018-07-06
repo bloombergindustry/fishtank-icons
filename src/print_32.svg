@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="print">
+    <circle id="circle2" cx="24" cy="13" r="1"/>
+    <circle id="circle1" cx="21" cy="13" r="1"/>
+    <path id="printer" d="M25.62,9H24V3H8V9H6.38A2.34,2.34,0,0,0,4,11.29V24H9v5H19.38L23,25.78V24h5V11.29A2.34,2.34,0,0,0,25.62,9ZM10,5H22V9H10ZM21,24.88,18.62,27H11V18H21ZM26,22H23V16H9v6H6V11.29A.34.34,0,0,1,6.38,11H25.62a.36.36,0,0,1,.38.29Z"/>
+  </g>
+</svg>

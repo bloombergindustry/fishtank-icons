@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>[icons_24_pt1]</title>
+  <g id="related">
+    <path id="shape" class="cls-1" d="M11,7H9V9H4V4H9V6h6.05a2.5,2.5,0,1,1,0,1H12v5h3.05a2.5,2.5,0,1,1,0,1H12v5h3.05a2.5,2.5,0,1,1,0,1H11Z"/>
+  </g>
+</svg>

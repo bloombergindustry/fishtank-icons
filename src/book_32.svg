@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>icons_32_pt2</title>
+  <g id="book">
+    <path id="shape" d="M27,5a1,1,0,0,0-1-1H9A4,4,0,0,0,5,8V25a3,3,0,0,0,3,3H26a1,1,0,0,0,1-1V6h0V5h0ZM9,6h1V21H9ZM8,23H23v1H7A1.08,1.08,0,0,1,8,23Zm17,3H8a1,1,0,0,1-1-1H24V23h1Zm0-5H11V6h7v7l2-2,2,2V6h3Z"/>
+  </g>
+</svg>

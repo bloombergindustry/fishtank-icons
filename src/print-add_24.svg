@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="print-add">
+    <circle id="dot2" cx="15.5" cy="11.5" r="0.5"/>
+    <circle id="dot1" cx="13.5" cy="11.5" r="0.5"/>
+    <polygon id="plus" points="21 5 19 5 19 3 17 3 17 5 15 5 15 7 17 7 17 9 19 9 19 7 21 7 21 5"/>
+    <path id="printer" d="M17,10v6H15V13H7v3H5V10.5a.5.5,0,0,1,.5-.5H14V8H8V6h6V4H6V8H4.58A1.87,1.87,0,0,0,3,9.86V18H7v4h5l3-2.48V18h4V10Zm-3,9H12v2H8V14h6Z"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="collapse">
+    <path id="outerBox" d="M6,27a1,1,0,0,1-1-1S5,6,5,6A1,1,0,0,0,4,7V26a2,2,0,0,0,2,2H25a1,1,0,0,0,1-1Z"/>
+    <path id="innerBox" d="M26,24H8V6h8V4H8A2,2,0,0,0,6,6V24a2,2,0,0,0,2,2H26a2,2,0,0,0,2-2V16H26Z"/>
+    <polygon id="upArrow" points="14.69 16 9.91 21.08 11.32 22.49 16 17.52 16 22 18 22 18 14 10 14 10 16 14.69 16"/>
+    <polygon id="downArrow" points="22.32 11 27.09 5.92 25.68 4.51 21 9.48 21 5 19 5 19 13 27 13 27 11 22.32 11"/>
+  </g>
+</svg>

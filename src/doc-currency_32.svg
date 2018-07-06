@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="doc-currency">
+    <rect id="line8" x="9" y="22" width="7" height="1"/>
+    <rect id="line7" x="9" y="20" width="8" height="1"/>
+    <rect id="line6" x="9" y="18" width="10" height="1"/>
+    <rect id="line5" x="9" y="16" width="12" height="1"/>
+    <rect id="line4" x="9" y="14" width="12" height="1"/>
+    <rect id="line3" x="9" y="12" width="12" height="1"/>
+    <rect id="line2" x="9" y="10" width="12" height="1"/>
+    <rect id="line1" x="9" y="8" width="9" height="1"/>
+    <path id="arrow" d="M23.5,19a4.49,4.49,0,0,0-4.45,4H17l2.5,3L22,23H20.05A3.49,3.49,0,1,1,21,25.94v1.3A4.5,4.5,0,1,0,23.5,19Z"/>
+    <polygon id="doc" points="7 6 20 6 20 9 23 9 23 18 25 18 25 8.59 20.41 4 5 4 5 28 17 28 17 26 7 26 7 6"/>
+  </g>
+</svg>

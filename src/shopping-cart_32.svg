@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>icons_32_pt2</title>
+  <g id="shopping-cart">
+    <circle id="wheel2" cx="24" cy="26" r="2"/>
+    <circle id="wheel1" cx="13" cy="26" r="2"/>
+    <path id="cart" d="M26.19,15.83l1.43-8.57A1.09,1.09,0,0,0,26.55,6H9.41L9,4H5A1,1,0,0,0,5,6H7l3.5,17H26a1,1,0,0,0,0-2H12.5l-.82-4H24.82A1.39,1.39,0,0,0,26.19,15.83ZM11.26,15,9.82,8H25.17L24,15Z"/>
+  </g>
+</svg>

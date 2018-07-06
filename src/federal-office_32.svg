@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>[icons_32_pt1]</title>
+  <g id="federal-office">
+    <path id="agency" class="cls-1" d="M25.28,11,16,5.33,6.76,11H4v2H5V25H4v2H28V25H27V13h1V11ZM25,24H23V13h2ZM7,13H9V24H7Zm3,0h3V24H10Zm4,0h4V24H14Zm5,0h3V24H19Zm4.08-1H8.92L16,7.67ZM7,26V25H25v1Z"/>
+    <rect id="window" x="14" y="10" width="4" height="1"/>
+  </g>
+</svg>

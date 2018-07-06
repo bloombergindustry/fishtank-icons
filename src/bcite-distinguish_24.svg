@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #267abd;
+      }
+    </style>
+  </defs>
+  <title>[icons_24_pt1]</title>
+  <g id="bcite-distinguish">
+    <path id="shape" class="cls-1" d="M18,4H6A2,2,0,0,0,4,6V18a2,2,0,0,0,2,2H18a2,2,0,0,0,2-2V6A2,2,0,0,0,18,4ZM7.93,17.83,6.17,16.07l9.9-9.9,1.77,1.77Z"/>
+  </g>
+</svg>

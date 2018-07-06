@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>icons_32_pt1</title>
+  <g id="chart-info">
+    <path id="circle" d="M19,22.5A4.5,4.5,0,1,0,23.5,18,4.5,4.5,0,0,0,19,22.5Zm8,0A3.5,3.5,0,1,1,23.5,19,3.5,3.5,0,0,1,27,22.5Z"/>
+    <rect id="iLine" x="23" y="22" width="1" height="3"/>
+    <rect id="iDot" x="23" y="20" width="1" height="1"/>
+    <path id="axis" d="M18.63,26H6V4H4V28H21.11A6,6,0,0,1,18.63,26Z"/>
+    <path id="bar4" d="M23.5,16.5a6,6,0,0,1,2.5.55V8H23v8.53Z"/>
+    <path id="bar3" d="M21,17.05V14H18v6.11A6,6,0,0,1,21,17.05Z"/>
+    <path id="bar2" d="M16,25H13V12h3Z"/>
+    <path id="bar1" d="M11,25H8V16h3Z"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="archive-email">
+    <path id="mail" d="M21,13H11a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H21a1,1,0,0,0,1-1V14A1,1,0,0,0,21,13Zm-7.28,3.82L16,18.64l2.28-1.82L20.4,20H11.6ZM11,19.1V14.64l1.94,1.55Zm.8-5.1h8.4L16,17.36ZM21,19.1l-1.94-2.91L21,14.64Z"/>
+    <rect id="handle2" x="8" y="14" width="1" height="2"/>
+    <polygon id="handle1" points="13 7 13 8 9 8 9 7 8 7 8 9 14 9 14 7 13 7"/>
+    <path id="shelf" d="M18,3H4A2,2,0,0,0,2,5V18a2,2,0,0,0,2,2H9V18H4V12H20V5A2,2,0,0,0,18,3ZM4,11V5H18v6Z"/>
+  </g>
+</svg>

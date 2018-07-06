@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="doc-federal">
+    <polygon id="doc-2" data-name="doc" points="25 13 25 8.59 20.41 4 5 4 5 28 25 28 25 25 23 25 23 26 7 26 7 6 20 6 20 9 23 9 23 13 25 13"/>
+    <path id="agency" d="M27,18V17H25.71l-4.35-3.79a.65.65,0,0,0-.82,0L16.29,17H15v1h1v5H15v1H27V23H26V18Zm-6-4,3.29,3H17.71Zm-4,9V18h2v5Zm3,0V18h2v5Zm5,0H23V18h2Z"/>
+    <rect id="line8" x="9" y="22" width="5" height="1"/>
+    <rect id="line7" x="9" y="20" width="5" height="1"/>
+    <rect id="line6" x="9" y="18" width="4" height="1"/>
+    <rect id="line5" x="9" y="16" width="5" height="1"/>
+    <rect id="line4" x="9" y="14" width="7" height="1"/>
+    <rect id="line3" x="9" y="12" width="9" height="1"/>
+    <rect id="line2" x="9" y="10" width="12" height="1"/>
+    <rect id="line1" x="9" y="8" width="9" height="1"/>
+  </g>
+</svg>

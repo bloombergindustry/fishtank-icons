@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>[icons_32_pt1]</title>
+  <g id="docs-comparison">
+    <path id="arrowUp" class="cls-1" d="M19,24H11a3,3,0,0,1-3-3V16h2L7,12,4,16H6v5a5,5,0,0,0,5,5h8a1,1,0,0,0,0-2Z"/>
+    <path id="bottomDoc" class="cls-1" d="M26,21H22a1,1,0,0,0-1,1v5a1,1,0,0,0,1,1h5a1,1,0,0,0,1-1V23.08Zm1,6H22s0-5,0-5h3v2h2Z"/>
+    <path id="arrowDown" class="cls-1" d="M13,10h8a3,3,0,0,1,3,3v3H22l3,4,3-4H26V13a5,5,0,0,0-5-5H13a1,1,0,0,0,0,2Z"/>
+    <path id="topDoc" class="cls-1" d="M5,11h5a1,1,0,0,0,1-1V6.08L9,4H5A1,1,0,0,0,4,5v5A1,1,0,0,0,5,11ZM5,5H8V7h2v3H5Z"/>
+  </g>
+</svg>

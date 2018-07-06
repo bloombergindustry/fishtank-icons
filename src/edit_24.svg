@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="edit">
+    <path id="pencil" d="M20,6.08,17.91,4a2,2,0,0,0-2.82,0L4,15.09V20H20V19H9.91L20,8.91A2,2,0,0,0,20,6.08ZM8,18v1H6L5,18V16H6L16.5,5.41h0L18.58,7.5h0Z"/>
+    <rect id="line" x="4.93" y="11.5" width="14.14" height="1" transform="translate(-4.97 12) rotate(-45)"/>
+  </g>
+</svg>

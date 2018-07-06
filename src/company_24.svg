@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>[icons_24_pt1]</title>
+  <g id="company">
+    <rect id="right3" x="13" y="16" width="4" height="1"/>
+    <rect id="right2" x="13" y="14" width="4" height="1"/>
+    <rect id="right1" x="13" y="12" width="4" height="1"/>
+    <rect id="left14" x="9" y="16" width="1" height="1"/>
+    <rect id="left13" x="7" y="16" width="1" height="1"/>
+    <rect id="left12" x="9" y="14" width="1" height="1"/>
+    <rect id="left11" x="7" y="14" width="1" height="1"/>
+    <rect id="left10" x="9" y="12" width="1" height="1"/>
+    <rect id="left9" x="7" y="12" width="1" height="1"/>
+    <rect id="left8" x="9" y="10" width="1" height="1"/>
+    <rect id="left7" x="7" y="10" width="1" height="1"/>
+    <rect id="left6" x="11" y="8" width="1" height="1"/>
+    <rect id="left5" x="9" y="8" width="1" height="1"/>
+    <rect id="left4" x="7" y="8" width="1" height="1"/>
+    <rect id="left3" x="11" y="6" width="1" height="1"/>
+    <rect id="left2" x="9" y="6" width="1" height="1"/>
+    <rect id="left1" x="7" y="6" width="1" height="1"/>
+    <path id="buildings" class="cls-1" d="M20,19V11a2,2,0,0,0-2-2H15V5a2,2,0,0,0-2-2H6A2,2,0,0,0,4,5V19H3v1H21V19ZM6,19V5h7v5H12a1,1,0,0,0-1,1v8Zm6,0V11h6v8Z"/>
+  </g>
+</svg>

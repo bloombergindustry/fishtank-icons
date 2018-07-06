@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="folder-docs">
+    <rect id="line3" x="11" y="21" width="10" height="1"/>
+    <rect id="line2" x="11" y="19" width="10" height="1"/>
+    <rect id="line1" x="11" y="17" width="10" height="1"/>
+    <path id="folder" d="M25,12H24V7L22,5H8V9H7a2,2,0,0,0-2,2V25a2,2,0,0,0,2,2H25a2,2,0,0,0,2-2V14A2,2,0,0,0,25,12ZM9,6H21V8h2v4H20L17.75,9H9ZM7,25V11h9.75L19,14h6V25Z"/>
+  </g>
+</svg>

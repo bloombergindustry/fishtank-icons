@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>icons_32_pt2</title>
+  <g id="state-house">
+    <path id="shape" d="M22,17V14H20a4,4,0,0,0-3-3.86V9h-.5V7H21V4H15.5V9H15v1.14A4,4,0,0,0,12,14H10v3H5V27H27V17ZM16.5,5H20V6H16.5ZM23,18v5H21V18Zm-7-6a2,2,0,0,1,2,2H14A2,2,0,0,1,16,12Zm-4,3h8v2H12Zm8,3v5H18V18Zm-3,0v5H15V18Zm-5,0h2v5H12ZM9,18h2v5H9ZM6,18H8v5H6Zm20,7H6V24H26Zm0-2H24V18h2Z"/>
+  </g>
+</svg>

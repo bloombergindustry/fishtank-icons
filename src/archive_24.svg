@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="archive">
+    <polygon id="handle2" points="14 15 14 16 10 16 10 15 9 15 9 17 15 17 15 15 14 15"/>
+    <polygon id="handle1" points="14 8 14 9 10 9 10 8 9 8 9 10 15 10 15 8 14 8"/>
+    <path id="shelf" d="M19.17,4H4.83A1.83,1.83,0,0,0,3,5.83V19.17A1.83,1.83,0,0,0,4.83,21H19.17A1.83,1.83,0,0,0,21,19.17V5.83A1.83,1.83,0,0,0,19.17,4ZM19,19H5V13H19Zm0-7H5V6H19Z"/>
+  </g>
+</svg>

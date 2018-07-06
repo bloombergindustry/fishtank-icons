@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="scroll">
+    <g id="line4">
+      <rect x="9" y="12" width="8" height="1"/>
+    </g>
+    <g id="line3">
+      <rect x="9" y="10" width="8" height="1"/>
+    </g>
+    <g id="line2">
+      <rect x="9" y="8" width="8" height="1"/>
+    </g>
+    <g id="line1">
+      <rect x="9" y="6" width="8" height="1"/>
+    </g>
+    <path id="scroll-2" data-name="scroll" d="M6,3V14H4v3.52A3.48,3.48,0,0,0,7.48,21H16v0a4,4,0,0,0,4-3.88V3Zm8,16H7.48A1.48,1.48,0,0,1,6,17.52V16h8Zm4-1.9A2,2,0,0,1,16,19V14H8V5H18Z"/>
+  </g>
+</svg>

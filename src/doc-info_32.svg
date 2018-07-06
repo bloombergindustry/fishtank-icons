@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="doc-info">
+    <rect id="line8" x="9" y="22" width="8" height="1"/>
+    <rect id="line7" x="9" y="20" width="9" height="1"/>
+    <rect id="line6" x="9" y="18" width="11" height="1"/>
+    <rect id="line5" x="9" y="16" width="12" height="1"/>
+    <rect id="line4" x="9" y="14" width="12" height="1"/>
+    <rect id="line3" x="9" y="12" width="12" height="1"/>
+    <rect id="line2" x="9" y="10" width="12" height="1"/>
+    <rect id="line1" x="9" y="8" width="9" height="1"/>
+    <path id="circle" d="M23.5,19A4.5,4.5,0,1,0,28,23.5,4.5,4.5,0,0,0,23.5,19Zm0,8A3.5,3.5,0,1,1,27,23.5,3.5,3.5,0,0,1,23.5,27Z"/>
+    <rect id="iLine" x="23" y="23" width="1" height="3"/>
+    <rect id="iDot" x="23" y="21" width="1" height="1"/>
+    <polygon id="doc" points="7 6 20 6 20 9 23 9 23 18 25 18 25 8.59 20.41 4 5 4 5 28 18 28 18 26 7 26 7 6"/>
+  </g>
+</svg>

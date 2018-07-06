@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>[icons_32_pt1]</title>
+  <g id="mobile-inactive">
+    <path id="phone" class="cls-1" d="M17,23l-.5-1H6V10H16.5L18,9l1,1h1V6.67A2.67,2.67,0,0,0,17.33,4H6.67A2.67,2.67,0,0,0,4,6.67V25.33A2.67,2.67,0,0,0,6.67,28H17.33A2.67,2.67,0,0,0,20,25.33V22H19ZM6,6H18V9H15V8H13V9H12V8H9V9H6ZM18,26H6V23h5v2h2V23h5Z"/>
+    <polygon id="x" points="27.71 11.71 26.29 10.29 22 14.59 17.71 10.29 16.29 11.71 20.59 16 16.29 20.29 17.71 21.71 22 17.41 26.29 21.71 27.71 20.29 23.41 16 27.71 11.71"/>
+  </g>
+</svg>

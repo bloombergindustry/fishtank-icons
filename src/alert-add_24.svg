@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="alert-add">
+    <path id="bell" d="M18,16V10A6,6,0,0,0,6,10v6H4v2h6a2,2,0,0,0,4,0h6V16Zm-2,0H8V10a4,4,0,0,1,8,0Z"/>
+    <polygon id="plus" points="13 8 11 8 11 10 9 10 9 12 11 12 11 14 13 14 13 12 15 12 15 10 13 10 13 8"/>
+  </g>
+</svg>

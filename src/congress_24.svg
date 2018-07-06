@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>[icons_24_pt1]</title>
+  <g id="congress">
+    <path id="shape" class="cls-1" d="M10.5,9h3A1.82,1.82,0,0,0,12,7,1.82,1.82,0,0,0,10.5,9ZM17,15v3h4V15Zm-3,0v3h2V15Zm-3,0v3h2V15ZM8,15v3h2V15ZM3,15v3H7V15Zm6-2v1h6V13Zm1-3v2h4V10Zm9,4h0V13h2v1h1v6H2V14H3V13H5v1H7V12H8V9h8v3h1v2ZM11.5,5.55V4h1V5.55A3.39,3.39,0,0,1,15,9H9A3.39,3.39,0,0,1,11.5,5.55Z"/>
+  </g>
+</svg>

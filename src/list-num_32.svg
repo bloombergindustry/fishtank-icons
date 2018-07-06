@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="list-num">
+    <rect id="line3" x="11" y="22" width="17" height="2"/>
+    <rect id="line2" x="11" y="15" width="17" height="2"/>
+    <rect id="line1" x="11" y="8" width="17" height="2"/>
+    <rect id="dot3" x="8" y="23" width="1" height="1" transform="translate(-14.13 12.89) rotate(-45)"/>
+    <rect id="dot2" x="8" y="16" width="1" height="1" transform="translate(-9.18 10.84) rotate(-45)"/>
+    <rect id="dot1" x="8" y="9" width="1" height="1" transform="translate(-4.23 8.79) rotate(-45)"/>
+    <path id="_3" data-name="3" d="M7,19H4v1H5.65l-1,1.1A.5.5,0,0,0,5,22H6v1H4v1H6a1,1,0,0,0,1-1V21.5c0-.28-.72-.5-1-.5l1-1Z"/>
+    <path id="_2" data-name="2" d="M6.65,15.1a1.4,1.4,0,0,0-.06-2.21,1.32,1.32,0,0,0-.93-.39H5.45A1.66,1.66,0,0,0,4,14H4s1,0,1,0a.93.93,0,0,1,.71-.5c.45,0,.57.32.29.79A13.45,13.45,0,0,1,4,16v1H7V16H5.84Z"/>
+    <polygon id="_1" data-name="1" points="4 6 5 5 6 5 6 10 5 10 5 6 4 6"/>
+  </g>
+</svg>

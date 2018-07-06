@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="lightbulb">
+    <polygon id="line2" points="14 11 10 12 10 11 14 10 14 11"/>
+    <polygon id="line1" points="14 9 10 10 10 9 14 8 14 9"/>
+    <rect id="screw" x="9" y="20" width="6" height="1"/>
+    <path id="bulb" d="M19,10A7,7,0,1,0,8,15.74V19h8V15.74A7,7,0,0,0,19,10Zm-5,7H10V14.58a5,5,0,1,1,4,0Z"/>
+  </g>
+</svg>

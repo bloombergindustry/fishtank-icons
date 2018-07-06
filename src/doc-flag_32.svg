@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>icons_32_pt2</title>
+  <g id="doc-flag">
+    <path id="flag" d="M28,18H23V16H18V15H17V29h1V22h3v2h7l-1.71-2.79ZM18,21V17h4v4Zm8,2H23V19h3l-.94,2Z"/>
+    <rect id="line8" x="9" y="22" width="6" height="1"/>
+    <rect id="line7" x="9" y="20" width="6" height="1"/>
+    <rect id="line6" x="9" y="18" width="6" height="1"/>
+    <rect id="line5" x="9" y="16" width="6" height="1"/>
+    <rect id="line4" x="9" y="14" width="6" height="1"/>
+    <rect id="line3" x="9" y="12" width="12" height="1"/>
+    <rect id="line2" x="9" y="10" width="12" height="1"/>
+    <rect id="line1" x="9" y="8" width="9" height="1"/>
+    <polygon id="docCorner" points="23 25 23 26 19 26 19 28 25 28 25 25 23 25"/>
+    <polygon id="doc" points="7 6 20 6 20 9 23 9 23 15 25 15 25 8.59 20.41 4 5 4 5 28 16 28 16 26 7 26 7 6"/>
+  </g>
+</svg>

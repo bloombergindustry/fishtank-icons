@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="compass">
+    <path id="circle" d="M16,6A10,10,0,1,1,6,16,10,10,0,0,1,16,6m0-2A12,12,0,1,0,28,16,12,12,0,0,0,16,4Z"/>
+    <path id="needle" d="M18.6,18.31l2.83-7.07a.52.52,0,0,0-.65-.65L13.7,13.42a.5.5,0,0,0-.28.28L10.6,20.77a.5.5,0,0,0,.65.65l7.07-2.83A.5.5,0,0,0,18.6,18.31Zm-4.32-4L16,16,20.06,12l-2.32,5.79L16,16,12,20.06Z"/>
+    <polygon id="tickUp" points="17 10 15 10 16 7 17 10"/>
+    <polygon id="tickDown" points="16 25 15 22 17 22 16 25"/>
+    <polygon id="tickLeft" points="10 15 10 17 7 16 10 15"/>
+    <polygon id="tickRight" points="25 16 22 17 22 15 25 16"/>
+  </g>
+</svg>

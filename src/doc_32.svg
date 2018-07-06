@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="doc">
+    <rect id="line8" x="10" y="22" width="7" height="1"/>
+    <rect id="line7" x="10" y="20" width="12" height="1"/>
+    <rect id="line6" x="10" y="18" width="12" height="1"/>
+    <rect id="line5" x="10" y="16" width="12" height="1"/>
+    <rect id="line4" x="10" y="14" width="12" height="1"/>
+    <rect id="line3" x="10" y="12" width="12" height="1"/>
+    <rect id="line2" x="10" y="10" width="12" height="1"/>
+    <rect id="line1" x="10" y="8" width="9" height="1"/>
+    <path id="doc-2" data-name="doc" d="M21.41,4H6V28H26V8.59ZM24,26H8V6H21V9h3Z"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>icons_24_pt1</title>
+  <g id="doc-track">
+    <rect id="line6" x="7" y="17" width="6" height="1"/>
+    <rect id="line5" x="7" y="15" width="6" height="1"/>
+    <rect id="line4" x="7" y="13" width="6" height="1"/>
+    <rect id="line3" x="7" y="11" width="9" height="1"/>
+    <rect id="line2" x="7" y="9" width="9" height="1"/>
+    <rect id="line1" x="7" y="7" width="7" height="1"/>
+    <polygon id="doc" points="6 5 15 5 15 5 15 7 17 7 17 12 19 12 19 6 15.79 3 4 3 4 21 12 21 12 19 6 19 6 5"/>
+    <path id="bell" d="M20,19V16a3,3,0,0,0-6,0v3H13v1h3a1,1,0,0,0,2,0h3V19Zm-1,0H15V16a2,2,0,0,1,4,0Z"/>
+  </g>
+</svg>

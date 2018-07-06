@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="info">
+    <rect id="iLine" x="11" y="11" width="2" height="5" rx="0.56" ry="0.56"/>
+    <ellipse id="iDot" cx="12" cy="7.97" rx="1.13" ry="1.22"/>
+    <path id="circle" d="M12,3a9,9,0,1,0,9,9A9,9,0,0,0,12,3Zm0,15.75A6.75,6.75,0,1,1,18.75,12,6.76,6.76,0,0,1,12,18.75Z"/>
+  </g>
+</svg>

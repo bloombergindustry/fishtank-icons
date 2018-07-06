@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="inbox-add">
+    <path id="inbox-2" data-name="inbox" d="M17,4H7L4,12v6a2,2,0,0,0,2,2H18a2,2,0,0,0,2-2V12ZM6,13H8.13a4,4,0,0,0,7.75,0H18v5H6ZM8.39,6h7.23l2.25,6H15a3,3,0,0,1-6,0H6.14Z"/>
+    <polygon id="plus" points="15 9 13 9 13 7 11 7 11 9 9 9 9 11 11 11 11 13 13 13 13 11 15 11 15 9"/>
+  </g>
+</svg>

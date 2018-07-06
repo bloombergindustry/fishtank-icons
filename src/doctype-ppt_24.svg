@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="doctype-ppt">
+    <path id="screen" d="M3,4V18H9v2H7v1H17V20H15V18h6V16H5V6H19V7h2V4ZM14,18v2H10V18Z"/>
+    <polygon id="t" points="22 9 17 9 17 10 19 10 19 14 20 14 20 10 22 10 22 9"/>
+    <path id="p2" d="M14.5,9H12v5h1V12h1.5a1.5,1.5,0,0,0,0-3Zm0,2H13V10h1.5a.5.5,0,0,1,0,1Z"/>
+    <path id="p1" d="M9.5,9H7v5H8V12H9.5a1.5,1.5,0,0,0,0-3Zm0,2H8V10H9.5a.5.5,0,0,1,0,1Z"/>
+  </g>
+</svg>

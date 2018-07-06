@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="merger">
+    <rect id="arrowRight" x="19" y="19.8" width="2" height="3.91" transform="translate(-9.51 23.19) rotate(-50.19)"/>
+    <polygon id="arrowLeft" points="17 12.41 18.29 13.71 19.71 12.29 16 8.59 12.29 12.29 13.71 13.71 15 12.41 15.02 17.05 9.32 22.26 10.68 23.74 17 17.94 17 12.41"/>
+    <path id="doc-2" data-name="doc" d="M6,4V28H26V8L21.71,4ZM24,26H8V6H20.93l.07.07V9h3Z"/>
+  </g>
+</svg>

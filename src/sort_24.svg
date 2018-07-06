@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>[icons_24_pt1]</title>
+  <g id="sort">
+    <polygon id="arrow" class="cls-1" points="17 15 17 4 15 4 15 15 12 15 16 20.2 20 15 17 15"/>
+    <rect id="line4" x="4" y="17" width="3" height="2"/>
+    <rect id="line3" x="4" y="13" width="5" height="2"/>
+    <rect id="line2" x="4" y="9" width="7" height="2"/>
+    <rect id="line1" x="4" y="5" width="9" height="2"/>
+  </g>
+</svg>

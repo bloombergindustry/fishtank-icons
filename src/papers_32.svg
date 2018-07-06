@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>icons_32_pt2</title>
+  <g id="papers">
+    <rect id="line5" x="8" y="24" width="10" height="1"/>
+    <rect id="line4" x="8" y="21" width="12" height="2"/>
+    <rect id="line3" x="8" y="19" width="6" height="1"/>
+    <rect id="line2" x="8" y="17" width="12" height="1"/>
+    <rect id="line1" x="8" y="15" width="12" height="1"/>
+    <polygon id="heading" points="19 14 19 13 9 13 9 11 17 11 17 10 8 10 8 14 19 14"/>
+    <path id="docs" d="M27,7.59,22.41,3H9V7H5V29H23V25h4ZM21,27H7V9H18v3h3Zm4-4H23V11.59L18.41,7H11V5H22V8h3Z"/>
+  </g>
+</svg>

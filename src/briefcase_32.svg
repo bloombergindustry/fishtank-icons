@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="briefcase">
+    <path id="shape" d="M26,9H21V7a2,2,0,0,0-2-2H13a2,2,0,0,0-2,2V9H6a2,2,0,0,0-2,2V24a2,2,0,0,0,2,2H26a2,2,0,0,0,2-2V11A2,2,0,0,0,26,9Zm-5,2h2v1H21ZM13,7h6V9H13ZM9,11h2v1H9ZM8,11v2h4V11h8v2h4V11h2v4H6V11ZM6,24V16H26v8Z"/>
+  </g>
+</svg>

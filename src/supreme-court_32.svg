@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>icons_32_pt2</title>
+  <g id="supreme-court">
+    <rect id="window2" x="26" y="18" width="1" height="2"/>
+    <rect id="window1" x="5" y="18" width="1" height="2"/>
+    <path id="building" d="M24,16V12.08l-8-3.9-8,3.9V16H3v7H7v1H25V23h4V16Zm-1,2.21a1.73,1.73,0,0,0-.5,1.29,2.16,2.16,0,0,0,.06.5H22v1H21V14h2ZM12,14h2v7H12Zm3,0h2v7H15Zm3,0h2v7H18Zm-2-3.59L21.32,13H10.68ZM11,14v7H10V20H9.44a2.16,2.16,0,0,0,.06-.5A1.73,1.73,0,0,0,9,18.21V14ZM4,21V17H8v1.21a1.73,1.73,0,0,0-.5,1.29,2.16,2.16,0,0,0,.06.5H7v1Zm6,2V22H22v1Zm18-2H25V20h-.56a2.16,2.16,0,0,0,.06-.5,1.73,1.73,0,0,0-.5-1.29V17h4Z"/>
+  </g>
+</svg>

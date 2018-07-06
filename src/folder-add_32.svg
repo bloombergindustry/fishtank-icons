@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="folder-add">
+    <path id="folder" d="M25,8H20L17.75,5H7A2,2,0,0,0,5,7V25a2,2,0,0,0,2,2H25a2,2,0,0,0,2-2V10A2,2,0,0,0,25,8ZM16.75,7l1.5,2H7V7ZM7,25V10H25V25Z"/>
+    <polygon id="plus" points="17 13 15 13 15 17 11 17 11 19 15 19 15 23 17 23 17 19 21 19 21 17 17 17 17 13"/>
+  </g>
+</svg>

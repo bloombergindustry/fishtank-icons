@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>icons_32_pt2</title>
+  <g id="white-house">
+    <rect id="windowR4" x="25" y="18" width="1" height="2"/>
+    <rect id="windowR3" x="23" y="18" width="1" height="2"/>
+    <rect id="windowR2" x="25" y="15" width="1" height="2"/>
+    <rect id="windowR1" x="23" y="15" width="1" height="2"/>
+    <rect id="windowL4" x="8" y="18" width="1" height="2"/>
+    <rect id="windowL3" x="6" y="18" width="1" height="2"/>
+    <rect id="windowL2" x="8" y="15" width="1" height="2"/>
+    <rect id="windowL1" x="6" y="15" width="1" height="2"/>
+    <path id="building" d="M21,13V11H19.6L16,8l-3.6,3H11v2H3V23h8v1H21V23h8V13Zm-5-3,2.5,2h-5ZM4,21V14h7v7Zm8,1V13h2v9Zm3,0V13h2v9Zm3-9h2v9H18Zm10,8H21V14h7Z"/>
+  </g>
+</svg>

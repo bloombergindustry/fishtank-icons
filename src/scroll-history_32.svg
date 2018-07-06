@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="scroll-history">
+    <path id="circle" d="M23.5,12A4.5,4.5,0,1,0,28,16.5,4.5,4.5,0,0,0,23.5,12Zm0,8A3.5,3.5,0,1,1,27,16.5,3.5,3.5,0,0,1,23.5,20Z"/>
+    <polygon id="clockHands" points="24 16 24 14 23 14 23 17 26 17 26 16 24 16"/>
+    <rect id="line5" x="11" y="17" width="7" height="1"/>
+    <rect id="line4" x="11" y="15" width="7" height="1"/>
+    <rect id="line3" x="11" y="13" width="7" height="1"/>
+    <rect id="line2" x="11" y="11" width="9" height="1"/>
+    <rect id="line1" x="11" y="9" width="10" height="1"/>
+    <path id="scroll" d="M25.5,4H12A5,5,0,0,0,7,9V21H4v3.5A3.55,3.55,0,0,0,7,28H21.28a5.06,5.06,0,0,0,1-.22A4,4,0,0,0,25,24V22H23v2a2,2,0,0,1-1.91,2A5.29,5.29,0,0,1,21,25V21H9V9a3,3,0,0,1,3-3H23v5h2V10h3V6.51A2.5,2.5,0,0,0,25.5,4ZM19,23v2a7.51,7.51,0,0,0,.06,1H7.51A1.51,1.51,0,0,1,6,24.5V23ZM26,8H25V7a2,2,0,0,1,.18-1h.32a.5.5,0,0,1,.5.51Z"/>
+  </g>
+</svg>

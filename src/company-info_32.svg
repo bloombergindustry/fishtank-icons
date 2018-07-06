@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="company-Info">
+    <rect id="right10" x="16" y="25" width="2" height="1"/>
+    <rect id="right9" x="16" y="23" width="2" height="1"/>
+    <rect id="right8" x="16" y="21" width="2" height="1"/>
+    <rect id="right7" x="16" y="19" width="2" height="1"/>
+    <rect id="right6" x="22" y="17" width="2" height="1"/>
+    <rect id="right5" x="19" y="17" width="2" height="1"/>
+    <rect id="right4" x="16" y="17" width="2" height="1"/>
+    <rect id="right3" x="22" y="15" width="2" height="1"/>
+    <rect id="right2" x="19" y="15" width="2" height="1"/>
+    <rect id="right1" x="16" y="15" width="2" height="1"/>
+    <rect id="left33" x="12" y="25" width="1" height="1"/>
+    <rect id="left32" x="10" y="25" width="1" height="1"/>
+    <rect id="left31" x="8" y="25" width="1" height="1"/>
+    <rect id="left30" x="12" y="23" width="1" height="1"/>
+    <rect id="left29" x="10" y="23" width="1" height="1"/>
+    <rect id="left28" x="8" y="23" width="1" height="1"/>
+    <rect id="left27" x="12" y="21" width="1" height="1"/>
+    <rect id="left26" x="10" y="21" width="1" height="1"/>
+    <rect id="left25" x="8" y="21" width="1" height="1"/>
+    <rect id="left24" x="12" y="19" width="1" height="1"/>
+    <rect id="left23" x="10" y="19" width="1" height="1"/>
+    <rect id="left22" x="8" y="19" width="1" height="1"/>
+    <rect id="left21" x="12" y="17" width="1" height="1"/>
+    <rect id="left20" x="10" y="17" width="1" height="1"/>
+    <rect id="left19" x="8" y="17" width="1" height="1"/>
+    <rect id="left18" x="12" y="15" width="1" height="1"/>
+    <rect id="left17" x="10" y="15" width="1" height="1"/>
+    <rect id="left16" x="8" y="15" width="1" height="1"/>
+    <rect id="left15" x="12" y="13" width="1" height="1"/>
+    <rect id="left14" x="10" y="13" width="1" height="1"/>
+    <rect id="left13" x="8" y="13" width="1" height="1"/>
+    <rect id="left12" x="14" y="11" width="1" height="1"/>
+    <rect id="left11" x="12" y="11" width="1" height="1"/>
+    <rect id="left10" x="10" y="11" width="1" height="1"/>
+    <rect id="left9" x="8" y="11" width="1" height="1"/>
+    <rect id="left8" x="14" y="9" width="1" height="1"/>
+    <rect id="left7" x="12" y="9" width="1" height="1"/>
+    <rect id="left6" x="10" y="9" width="1" height="1"/>
+    <rect id="left5" x="8" y="9" width="1" height="1"/>
+    <rect id="left4" x="14" y="7" width="1" height="1"/>
+    <rect id="left3" x="12" y="7" width="1" height="1"/>
+    <rect id="left2" x="10" y="7" width="1" height="1"/>
+    <rect id="left1" x="8" y="7" width="1" height="1"/>
+    <path id="buildings" d="M15,27V14H25v4h2V14a2,2,0,0,0-2-2H18V6a2,2,0,0,0-2-2H7A2,2,0,0,0,5,6V27H4v1H18V27ZM14,14V27H7V6h9v7H15A1,1,0,0,0,14,14Z"/>
+    <path id="circle" d="M23.5,20A3.5,3.5,0,1,1,20,23.5,3.5,3.5,0,0,1,23.5,20m0-1A4.5,4.5,0,1,0,28,23.5,4.5,4.5,0,0,0,23.5,19Z"/>
+    <rect id="iLine" x="23" y="23" width="1" height="3"/>
+    <rect id="iDot" x="23" y="21" width="1" height="1"/>
+  </g>
+</svg>

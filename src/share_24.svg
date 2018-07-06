@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>icons_24_pt1</title>
+  <g id="share">
+    <path id="box" class="cls-1" d="M18.13,7H16V9h2V19H6V9H8V7H5.88A1.88,1.88,0,0,0,4,8.88V19.12A1.88,1.88,0,0,0,5.88,21H18.12A1.88,1.88,0,0,0,20,19.12V8.88A1.88,1.88,0,0,0,18.13,7Z"/>
+    <path id="arrow" class="cls-1" d="M11,14a1,1,0,0,0,2,0V6h1.83L12,2.5,9.17,6H11Z"/>
+  </g>
+</svg>

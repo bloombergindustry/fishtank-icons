@@ -1,0 +1,12 @@
+*.tgz
+.DS_Store
+node_modules
+*.js
+*.js.map
+!packages/vue/**/*.js
+packages/vue/lib
+packages/vue/lib-esm
+*.tap
+docs/
+dist/
+release.props

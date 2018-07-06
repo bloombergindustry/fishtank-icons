@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="doc-lightbulb">
+    <rect id="screw" x="15" y="20" width="3" height="1"/>
+    <path id="bulb" d="M16.5,8.33a4.5,4.5,0,0,0-4.5,4.5,4.46,4.46,0,0,0,2,3.71V19h5V16.54a4.46,4.46,0,0,0,2-3.71A4.5,4.5,0,0,0,16.5,8.33ZM18,16v2H15V16a3.5,3.5,0,1,1,3,0Z"/>
+    <rect id="line6" x="7" y="17" width="5" height="1"/>
+    <path id="line5" d="M10.85,15H7v1h4.31A6,6,0,0,1,10.85,15Z"/>
+    <path id="line4" d="M10.5,13H7v1h3.59A6,6,0,0,1,10.5,13Z"/>
+    <path id="line3" d="M10.85,11H7v1h3.59A6,6,0,0,1,10.85,11Z"/>
+    <path id="line2" d="M12,9H7v1h4.31A6,6,0,0,1,12,9Z"/>
+    <path id="line1" d="M14,7.55V7H7V8h6.19A6,6,0,0,1,14,7.55Z"/>
+    <polygon id="doc" points="6 5 15 5 15 7 17 7 19 7 19 6 15.79 3 4 3 4 21 13 21 13 19 6 19 6 5"/>
+  </g>
+</svg>

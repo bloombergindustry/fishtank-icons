@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="duplicate">
+    <path id="boxes" d="M26,4H14a2,2,0,0,0-2,2v6H6a2,2,0,0,0-2,2V26a2,2,0,0,0,2,2H18a2,2,0,0,0,2-2V20h6a2,2,0,0,0,2-2V6A2,2,0,0,0,26,4ZM18,26H6V14h6v4a2,2,0,0,0,2,2h4Zm-4-8V6H26V18Z"/>
+    <polygon id="plus" points="21 8 19 8 19 11 16 11 16 13 19 13 19 16 21 16 21 13 24 13 24 11 21 11 21 8"/>
+  </g>
+</svg>

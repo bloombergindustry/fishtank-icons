@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="save">
+    <path id="disk" d="M16,5H14V7h2l2,2v9H16V16H8v2H6V7h4V5H5A1,1,0,0,0,4,6V19a1,1,0,0,0,1,1H19a1,1,0,0,0,1-1V8.5ZM15,19H9V17h6Z"/>
+    <path id="arrow" d="M12,15l3-3H13V5a1,1,0,0,0-1-1h0a1,1,0,0,0-1,1v7H9Z"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="lightbulb-off">
+    <polygon id="line2" points="18 14 14 15 14 14 18 13 18 14"/>
+    <polygon id="line1" points="18 12 14 13 14 12 18 11 18 12"/>
+    <rect id="screw2" x="13" y="27" width="6" height="1"/>
+    <rect id="screw1" x="12" y="25" width="8" height="1"/>
+    <path id="bulb" d="M16,5a8.1,8.1,0,0,0-5,14.39V24H21V19.39A8.1,8.1,0,0,0,16,5Zm3.42,13.08-.42.3V22H13V18.38l-.42-.3a6.12,6.12,0,0,1-2.58-5,6,6,0,1,1,12,0A6.12,6.12,0,0,1,19.42,18.08Z"/>
+  </g>
+</svg>

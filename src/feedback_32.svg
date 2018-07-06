@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>icons_32_pt2</title>
+  <g id="feedback">
+    <rect id="line4" x="8" y="15" width="9" height="1"/>
+    <rect id="line3" x="8" y="13" width="16" height="1"/>
+    <rect id="line2" x="8" y="11" width="16" height="1"/>
+    <rect id="line1" x="8" y="8" width="6" height="1"/>
+    <path id="comment" d="M27,4H5A1,1,0,0,0,4,5V19a1,1,0,0,0,1,1h5v7.5L17.5,20H27a1,1,0,0,0,1-1V5A1,1,0,0,0,27,4ZM26,18H16.5L12,22.5V18H6V6H26Z"/>
+  </g>
+</svg>

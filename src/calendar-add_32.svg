@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>icons_32_pt2</title>
+  <g id="calendar-add">
+    <polygon id="_1" data-name="1" class="cls-1" points="17 24 15 24 15 17 13 17 15 14 17 14 17 24"/>
+    <polygon id="plus" class="cls-1" points="25 23 25 20 23 20 23 23 20 23 20 25 23 25 23 28 25 28 25 25 28 25 28 23 25 23"/>
+    <path id="calendar-2" data-name="calendar" class="cls-1" d="M19,26H7a1,1,0,0,1-1-1V12H26v7h2V8a3,3,0,0,0-3-3H22a1,1,0,0,0-2,0H12a1,1,0,0,0-2,0H7A3,3,0,0,0,4,8V25a3,3,0,0,0,3,3H19ZM6,8A1,1,0,0,1,7,7h3V8a1,1,0,0,0,2,0V7h8V8a1,1,0,0,0,2,0V7h3a1,1,0,0,1,1,1v3H6Z"/>
+  </g>
+</svg>

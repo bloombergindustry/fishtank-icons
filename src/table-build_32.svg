@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="table-build">
+    <path id="hammer" d="M10.89,16.47a3.4,3.4,0,0,0,.7-2.05L15,13H10.53a4.27,4.27,0,0,0-3,1.25l-.87.87v1.41H5.23l-.71.71,2.83,2.83.71-.71V17.95H9.47l7.83,8.76a1,1,0,0,0,1.41-1.41Z"/>
+    <polygon id="borderRight" points="24 26 24 27 20 27 20 28 25 28 25 26 24 26"/>
+    <polygon id="borderCorner" points="5 27 5 19 4 19 4 28 16 28 16 27 5 27"/>
+    <path id="borderLeft" d="M5,7A1,1,0,0,0,4,8v7H5V8H6V7Z"/>
+    <polygon id="tableCorner" points="9 23 9 22 7 22 7 25 12 25 12 23 9 23"/>
+    <path id="table" d="M26,4H9A2,2,0,0,0,7,6v6H9V9h3v3h1V9h4v3H16v1h1v3H13v1h4v4h5v2H20v2h8V6A2,2,0,0,0,26,4ZM22,20H18V17h4Zm0-4H18V13h4Zm0-4H18V9h4Zm4,11H23V21h3Zm0-3H23V17h3Zm0-4H23V13h3Zm0-4H23V9h3Zm0-4H9V6H26Z"/>
+  </g>
+</svg>

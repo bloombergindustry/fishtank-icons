@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>[icons_32_pt1]</title>
+  <g id="table">
+    <path id="chart" d="M26,4H9A2,2,0,0,0,7,6V25H28V6A2,2,0,0,0,26,4Zm0,2V8H9V6Zm-8,7h4v3H18Zm-1,3H13V13h4Zm1-4V9h4v3Zm-1,0H13V9h4Zm-5,0H9V9h3Zm0,1v3H9V13Zm0,4v3H9V17Zm1,0h4v3H13Zm4,4v2H13V21Zm1,0h4v2H18Zm0-1V17h4v3Zm5-3h3v3H23Zm0-1V13h3v3Zm0-4V9h3v3ZM9,21h3v2H9Zm14,2V21h3v2Z"/>
+    <path id="border" d="M24,27H5V8H6V7H5A1,1,0,0,0,4,8V28H25V26H24Z"/>
+  </g>
+</svg>

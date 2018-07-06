@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>icons_32_pt2</title>
+  <g id="news-tools">
+    <path id="tools" d="M29.82,20h-.4l-1.7,1.7L26.3,20.28l1.7-1.7v-.4a3,3,0,0,0-3.69,4.1l-.81.81-1.62-1.62a3.4,3.4,0,0,0,.7-2.05L24,18H21.53a4.27,4.27,0,0,0-3,1.25l-.87.87v1.41H16.22l-.71.71,2.83,2.83.71-.71V22.95h1.41l1.6,1.57L20.3,26.28a1,1,0,1,0,1.41,1.41l1.77-1.77,1.81,1.78a1,1,0,0,0,1.41-1.41L24.91,24.5l.81-.81A3,3,0,0,0,29.82,20Z"/>
+    <rect id="line8" x="12" y="23" width="3" height="1"/>
+    <rect id="line7" x="12" y="21" width="2" height="1"/>
+    <rect id="line6" x="12" y="19" width="5" height="1"/>
+    <rect id="line5" x="12" y="17" width="6" height="1"/>
+    <rect id="line4" x="20" y="14" width="3" height="1"/>
+    <rect id="line3" x="20" y="12" width="4" height="1"/>
+    <rect id="line2" x="20" y="10" width="4" height="1"/>
+    <rect id="line1" x="20" y="8" width="4" height="1"/>
+    <rect id="image" x="12" y="8" width="6" height="7"/>
+    <path id="newspaper" d="M18,26H9.82A3,3,0,0,0,10,25V6H26V17h2V4H8V8H4V25a3,3,0,0,0,3,3H18ZM8,25a1,1,0,0,1-2,0V10H8Z"/>
+  </g>
+</svg>

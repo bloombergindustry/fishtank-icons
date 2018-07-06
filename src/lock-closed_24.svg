@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="lock-closed">
+    <path id="hole" d="M13.5,15a1.5,1.5,0,1,0-2,1.41V18h1V16.41A1.5,1.5,0,0,0,13.5,15Z"/>
+    <path id="lock" d="M17,10H16V8A4,4,0,0,0,8,8v2H7a1,1,0,0,0-1,1v9a1,1,0,0,0,1,1H17a1,1,0,0,0,1-1V11A1,1,0,0,0,17,10ZM12,6a2,2,0,0,1,2,2v2H10V8A2,2,0,0,1,12,6Zm4,13H8V12h8Z"/>
+  </g>
+</svg>

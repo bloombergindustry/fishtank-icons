@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="resize">
+    <polygon id="arrow" points="19 18.29 13.5 12.79 12.79 13.5 18.29 19 14 19 14 20 20 20 20 14 19 14 19 18.29"/>
+    <path id="box" d="M19,3H5A2,2,0,0,0,3,5V19a2,2,0,0,0,2,2h7V19H5V12h6a1,1,0,0,0,1-1V5h7v7h2V5A2,2,0,0,0,19,3Z"/>
+  </g>
+</svg>

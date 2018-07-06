@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="grid">
+    <rect id="box4" x="10" y="13" width="11" height="7" rx="1" ry="1"/>
+    <rect id="box3" x="3" y="13" width="5" height="7" rx="1" ry="1"/>
+    <rect id="box2" x="16" y="4" width="5" height="7" rx="1" ry="1"/>
+    <rect id="box1" x="3" y="4" width="11" height="7" rx="1" ry="1"/>
+  </g>
+</svg>

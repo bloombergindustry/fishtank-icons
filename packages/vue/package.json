@@ -1,0 +1,54 @@
+{
+  "name": "@fishtank/icons-vue",
+  "version": "3.5.19",
+  "description": "Importable VueJS components for all icons in @fishtank/icons",
+  "main": "lib/icons.js",
+  "module": "lib-esm/icons.js",
+  "typings": "typings.d.ts",
+  "sideEffects": false,
+  "author": "Fishtank Design System <agile_fishtank@bna.com>",
+  "license": "Apache-2.0",
+  "scripts": {
+    "clean": "rimraf dist/ lib/ lib-esm/ typings.d.ts",
+    "prebuild": "yarn run clean",
+    "build": "npm-run-all build:es6 build:node build:typings",
+    "build:bamboo": "TARGET=esm rollup -c rollup.config.js && TARGET=cjs rollup -c rollup.config.js && node -r esm config/types-builder.js",
+    "build:rollup": "yarn rollup -c rollup.config.js",
+    "build:es6": "TARGET=esm yarn build:rollup",
+    "build:node": "TARGET=cjs yarn build:rollup",
+    "build:typings": "node -r esm config/types-builder.js",
+    "test": "yarn jest",
+    "release": "script/sync-version && yarn build && yarn publish --non-interactive",
+    "release:npm": "script/sync-version && npm run build:bamboo"
+  },
+  "peerDependencies": {
+    "vue": ">= 2.5.0"
+  },
+  "files": [
+    "lib/",
+    "lib-esm/",
+    "config/",
+    "typings.d.ts"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "@vue/test-utils": "1.0.0-beta.16",
+    "@yelo/rollup-node-external": "1.0.1",
+    "esm": "3.0.34",
+    "jest": "22.4.3",
+    "lodash": "4.17.5",
+    "npm-run-all": "4.1.2",
+    "rimraf": "2.6.2",
+    "rollup": "0.59.0",
+    "rollup-plugin-babel": "3.0.4",
+    "rollup-plugin-filesize": "1.5.0",
+    "rollup-plugin-vue-svg-component": "1.1.1",
+    "rollup-pluginutils": "2.2.0",
+    "vue": "2.5.16"
+  },
+  "dependencies": {
+    "vue-svg-component-runtime": "1.0.1"
+  }
+}

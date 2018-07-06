@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>icons_32_pt2</title>
+  <g id="congress">
+    <rect id="window4" x="25" y="21" width="1" height="2"/>
+    <rect id="window3" x="23" y="21" width="1" height="2"/>
+    <rect id="window2" x="8" y="21" width="1" height="2"/>
+    <rect id="window1" x="6" y="21" width="1" height="2"/>
+    <path id="building" d="M26,19V18H24v1H22V16H21V12H20a4,4,0,0,0-3-3.86V7h-.5V5h-1V7H15V8.14A4,4,0,0,0,12,12H11v4H10v3H8V18H6v1H3v7H29V19ZM16,10a2,2,0,0,1,2,2H14A2,2,0,0,1,16,10Zm3,3v3H13V13Zm1,4v2H12V17ZM4,24V20h7v4Zm8,0V20h2v4Zm3,0V20h2v4Zm3,0V20h2v4Zm10,0H21V20h7Z"/>
+  </g>
+</svg>

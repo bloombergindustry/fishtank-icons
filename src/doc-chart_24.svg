@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>[icons_24_pt1]</title>
+  <g id="doc-chart">
+    <path id="doc" d="M16.79,3H5V21H20V6ZM18,19H7V5h9V7h2Z"/>
+    <polygon id="chart" class="cls-1" points="13.56 16.29 11.56 14.79 9 17.35 8.15 16.5 11.44 13.21 13.44 14.71 16.5 11.65 17.35 12.5 13.56 16.29"/>
+    <rect id="line2" x="8" y="11" width="5" height="1"/>
+    <rect id="line1" x="8" y="9" width="9" height="1"/>
+    <rect id="image2" x="11" y="6" width="4" height="2"/>
+    <rect id="image1" x="8" y="6" width="2" height="2"/>
+  </g>
+</svg>

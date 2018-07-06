@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>[icons_24_pt1]</title>
+  <g id="code">
+    <polygon id="right" points="16.34 7.03 15.22 8.21 18.98 11.97 15.22 15.72 16.34 16.91 21.28 11.97 16.34 7.03"/>
+    <rect id="slash" x="4.64" y="11" width="14.73" height="2" transform="translate(-2.75 20.39) rotate(-74.65)"/>
+    <polygon id="left" points="2.72 11.97 7.66 16.91 8.78 15.72 5.02 11.97 8.78 8.21 7.66 7.03 2.72 11.97"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+node_modules/
+lib
+lib-esm
+lib-ts
+typings.d.ts
+yarn-error.log
+yarn.lock
