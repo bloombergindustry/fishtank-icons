@@ -282,6 +282,7 @@
 ./dist/sort-columns_24.svg
 ./dist/sort-rows_24.svg
 ./dist/sort_24.svg
+./dist/sortable_24.svg
 ./dist/spotlight_32.svg
 ./dist/state-house_32.svg
 ./dist/supreme-court_32.svg
