@@ -1,6 +1,6 @@
 {
   "name": "@fishtank/icons-vue",
-  "version": "3.5.19",
+  "version": "3.8.4",
   "description": "Importable VueJS components for all icons in @fishtank/icons",
   "main": "lib/icons.js",
   "module": "lib-esm/icons.js",
@@ -18,7 +18,8 @@
     "build:node": "TARGET=cjs yarn build:rollup",
     "build:typings": "node -r esm config/types-builder.js",
     "test": "yarn jest",
-    "release": "script/sync-version && yarn build && yarn publish --non-interactive",
+    "release-legacy": "script/sync-version && yarn build && yarn publish --non-interactive",
+    "release": "script/sync-version && yarn build && npm publish",
     "release:npm": "script/sync-version && npm run build:bamboo"
   },
   "peerDependencies": {
