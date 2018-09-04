@@ -58,6 +58,7 @@
   - complete
   - customize
   - delete
+  - download
   - duplicate
   - edit
   - email
@@ -175,19 +176,19 @@
   - caret-down
   - caret-left
   - caret-right
+  - caret-up
   - caret-sml-down
   - caret-sml-left
   - caret-sml-right
   - caret-sml-up
-  - caret-up
   - chevron-down
   - chevron-left
   - chevron-right
+  - chevron-up
   - chevron-sml-down
   - chevron-sml-left
   - chevron-sml-right
   - chevron-sml-up
-  - chevron-up
 
 - name: Locations & Places
   icons:
