@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.8.5"></a>
+## [3.8.5](https://github.com/bloombergbna/fishtank-icons/compare/v3.8.4...v3.8.5) (2019-02-04)
+
+
+
 <a name="3.8.4"></a>
 ## [3.8.4](https://github.com/bloombergbna/fishtank-icons/compare/v3.8.2...v3.8.4) (2018-07-25)
 
