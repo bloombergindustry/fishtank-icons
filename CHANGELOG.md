@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.9.0"></a>
+# [3.9.0](https://github.com/bloombergbna/fishtank-icons/compare/v3.8.5...v3.9.0) (2019-02-06)
+
+
+### Bug Fixes
+
+* deploying correct version of Environment_32 icon ([7269225](https://github.com/bloombergbna/fishtank-icons/commit/7269225))
+
+
+### Features
+
+* updated environment_32 icon ([eced55a](https://github.com/bloombergbna/fishtank-icons/commit/eced55a))
+* updated environment_32 icon ([10f5a3d](https://github.com/bloombergbna/fishtank-icons/commit/10f5a3d))
+
+
+
 <a name="3.8.5"></a>
 ## [3.8.5](https://github.com/bloombergbna/fishtank-icons/compare/v3.8.4...v3.8.5) (2019-02-04)
 
