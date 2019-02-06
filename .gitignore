@@ -10,3 +10,4 @@ packages/vue/lib-esm
 docs/
 dist/
 release.props
+yarn.lock
