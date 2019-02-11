@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.9.1"></a>
+## [3.9.1](https://github.com/bloombergbna/fishtank-icons/compare/v3.9.0...v3.9.1) (2019-02-11)
+
+
+### Bug Fixes
+
+* Deleted package-lock.json ([bed75e2](https://github.com/bloombergbna/fishtank-icons/commit/bed75e2))
+
+
+
 <a name="3.9.0"></a>
 # [3.9.0](https://github.com/bloombergbna/fishtank-icons/compare/v3.8.5...v3.9.0) (2019-02-06)
 
