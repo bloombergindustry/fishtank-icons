@@ -48,7 +48,7 @@
     "husky": "^0.14.3",
     "is-svg": "^2.1.0",
     "js-yaml": "^3.10.0",
-    "lodash": "^4.17.5",
+    "lodash": ">=4.17.11",
     "nothing-major": "^1.1.1",
     "randomatic": "3.1.1",
     "standard-version": "^4.3.0",
