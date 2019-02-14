@@ -59,6 +59,7 @@
   - customize
   - delete
   - download
+  - drag-drop
   - duplicate
   - edit
   - email
@@ -75,6 +76,7 @@
   - list-bullet
   - list-num
   - map-pin
+  - mouse-click
   - move
   - pause
   - phone

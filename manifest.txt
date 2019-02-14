@@ -130,6 +130,7 @@
 ./dist/download_24.svg
 ./dist/drafting-compass_24.svg
 ./dist/drafting-compass_32.svg
+./dist/drag-drop_64.svg
 ./dist/drawings_32.svg
 ./dist/duplicate_24.svg
 ./dist/duplicate_32.svg
@@ -228,6 +229,7 @@
 ./dist/monopoly_32.svg
 ./dist/more_24.svg
 ./dist/more_32.svg
+./dist/mouse-click_64.svg
 ./dist/move_24.svg
 ./dist/network_24.svg
 ./dist/network_32.svg
