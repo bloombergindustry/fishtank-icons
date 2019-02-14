@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.10.0"></a>
+# [3.10.0](https://github.com/bloombergbna/fishtank-icons/compare/v3.9.1...v3.10.0) (2019-02-14)
+
+
+### Bug Fixes
+
+* updates tests to accept icons at 64px: ([6b321b5](https://github.com/bloombergbna/fishtank-icons/commit/6b321b5))
+
+
+### Features
+
+* added new drag-drop and mouse-click icons at 64x64 size ([38e26b0](https://github.com/bloombergbna/fishtank-icons/commit/38e26b0))
+
+
+
 <a name="3.9.1"></a>
 ## [3.9.1](https://github.com/bloombergbna/fishtank-icons/compare/v3.9.0...v3.9.1) (2019-02-11)
 
