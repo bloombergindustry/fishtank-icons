@@ -10,7 +10,7 @@ function parseIconParts(iconPath) {
     return Path.basename(iconPath).match(/^(.+)_(\d+).svg$/)
 }
 
-const validSizes = new Set(['24', '32']);
+const validSizes = new Set(['24', '32','64']);
 
 const iconPaths = Globby.sync('dist/*.svg').map(i => Path.resolve(__dirname, i));
 
