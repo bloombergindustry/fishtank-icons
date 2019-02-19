@@ -71,6 +71,7 @@
   - font-size
   - gear
   - hashtag
+  - hide
   - italics
   - jump-to
   - list-bullet
@@ -93,12 +94,14 @@
   - search
   - search-sml
   - share
+  - show
   - sort
   - sort-columns
   - sort-rows
   - sortable
   - timer
   - underline
+  - undo
   - url
   - view-details
   - view-grid

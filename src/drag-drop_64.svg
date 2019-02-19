@@ -1,31 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: none;
-      }
-
-      .cls-2 {
-        fill: #2a2d30;
-      }
-    </style>
-  </defs>
-  <title>64</title>
-  <g id="empty_icon_margins">
-    <rect id="empty_icon_margins-2" data-name="empty_icon_margins" class="cls-1" width="64" height="64"/>
-  </g>
+  <title>icons_64</title>
   <g id="dragDrop">
-    <g>
-      <polygon class="cls-2" points="16 19 10 19 10 20 10 21 10 25 12 25 12 21 16 21 16 19"/>
-      <polygon class="cls-2" points="10 50 10 56 11 56 12 56 16 56 16 54 12 54 12 50 10 50"/>
-      <polygon class="cls-2" points="35 56 41 56 41 55 41 54 41 50 39 50 39 54 35 54 35 56"/>
-      <rect class="cls-2" x="10" y="27" width="2" height="4.94"/>
-      <rect class="cls-2" x="10" y="43" width="2" height="4.94"/>
-      <rect class="cls-2" x="10" y="34" width="2" height="7"/>
-      <rect class="cls-2" x="18" y="54" width="7" height="2"/>
-      <rect class="cls-2" x="27" y="54" width="6" height="2"/>
-      <polygon class="cls-2" points="41 44 22 44 22 11 42 11 42 19 50 19 50 39 53 42 53 18 43 8 19 8 19 47 41 47 41 44"/>
-      <polygon class="cls-2" points="56 48 43 35.22 43 54 47.6 48.55 51.17 56.53 53 55.72 49.54 48 56 48"/>
-    </g>
+    <polygon points="16 19 10 19 10 20 10 21 10 25 12 25 12 21 16 21 16 19"/>
+    <polygon points="10 50 10 56 11 56 12 56 16 56 16 54 12 54 12 50 10 50"/>
+    <polygon points="35 56 41 56 41 55 41 54 41 50 39 50 39 54 35 54 35 56"/>
+    <rect x="10" y="27" width="2" height="4.94"/>
+    <rect x="10" y="43" width="2" height="4.94"/>
+    <rect x="10" y="34" width="2" height="7"/>
+    <rect x="18" y="54" width="7" height="2"/>
+    <rect x="27" y="54" width="6" height="2"/>
+    <polygon points="41 44 22 44 22 11 42 11 42 19 50 19 50 39 53 42 53 18 43 8 19 8 19 47 41 47 41 44"/>
+    <polygon points="56 48 43 35.22 43 54 47.6 48.55 51.17 56.53 53 55.72 49.54 48 56 48"/>
   </g>
 </svg>
