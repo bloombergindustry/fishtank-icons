@@ -59,7 +59,6 @@
   - customize
   - delete
   - download
-  - drag-drop
   - duplicate
   - edit
   - email
@@ -77,7 +76,6 @@
   - list-bullet
   - list-num
   - map-pin
-  - mouse-click
   - move
   - pause
   - phone
@@ -169,6 +167,7 @@
   - table-build
   - training
   - versions
+  - video
   - webinar
   - webpage
 
@@ -194,6 +193,14 @@
   - chevron-sml-left
   - chevron-sml-right
   - chevron-sml-up
+
+- name: Gesture
+  icons:
+  - drag-drop
+  - mouse-click
+  - mouse-click-right
+  - scroll-down
+  - tap
 
 - name: Locations & Places
   icons:
