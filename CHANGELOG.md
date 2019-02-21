@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.11.0"></a>
+# [3.11.0](https://github.com/bloombergbna/fishtank-icons/compare/v3.10.0...v3.11.0) (2019-02-21)
+
+
+### Features
+
+* added new icons show_24, hide_24, and undo_24, and updated the 64x64 icons using the new export format we use now from Illustrator ([93de51a](https://github.com/bloombergbna/fishtank-icons/commit/93de51a))
+* added video_24 icon, plus other gesture 64x64 icons including tap and scroll ([5f15d82](https://github.com/bloombergbna/fishtank-icons/commit/5f15d82))
+* tweaked mouse-click_64 to better center icon in the viewbox ([9775fba](https://github.com/bloombergbna/fishtank-icons/commit/9775fba))
+
+
+
 <a name="3.10.0"></a>
 # [3.10.0](https://github.com/bloombergbna/fishtank-icons/compare/v3.9.1...v3.10.0) (2019-02-14)
 
