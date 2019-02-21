@@ -180,6 +180,7 @@
 ./dist/help-desk_32.svg
 ./dist/help_24.svg
 ./dist/help_32.svg
+./dist/hide_24.svg
 ./dist/history_24.svg
 ./dist/history_32.svg
 ./dist/home-o_24.svg
@@ -230,6 +231,7 @@
 ./dist/more_24.svg
 ./dist/more_32.svg
 ./dist/mouse-click_64.svg
+./dist/mouse-click-right_64.svg
 ./dist/move_24.svg
 ./dist/network_24.svg
 ./dist/network_32.svg
@@ -266,6 +268,7 @@
 ./dist/save_32.svg
 ./dist/scales-history_32.svg
 ./dist/scales_32.svg
+./dist/scroll-down_64.svg
 ./dist/scroll-history_32.svg
 ./dist/scroll-search_32.svg
 ./dist/scroll_24.svg
@@ -280,6 +283,7 @@
 ./dist/share_32.svg
 ./dist/shield_32.svg
 ./dist/shopping-cart_32.svg
+./dist/show_24.svg
 ./dist/shutter_32.svg
 ./dist/sort-columns_24.svg
 ./dist/sort-rows_24.svg
@@ -291,6 +295,7 @@
 ./dist/table-build_32.svg
 ./dist/table_24.svg
 ./dist/table_32.svg
+./dist/tap_64.svg
 ./dist/timer_24.svg
 ./dist/tools-design_32.svg
 ./dist/tools-labor_32.svg
@@ -299,6 +304,7 @@
 ./dist/twitter_32.svg
 ./dist/underline_24.svg
 ./dist/underline_32.svg
+./dist/undo_24.svg
 ./dist/url_24.svg
 ./dist/url_32.svg
 ./dist/user-group_24.svg
@@ -306,6 +312,7 @@
 ./dist/user_24.svg
 ./dist/user_32.svg
 ./dist/versions_32.svg
+./dist/video_24.svg
 ./dist/view-details_24.svg
 ./dist/view-grid_24.svg
 ./dist/view-list_24.svg
