@@ -193,6 +193,10 @@
   - chevron-sml-left
   - chevron-sml-right
   - chevron-sml-up
+  - double-chevron-down
+  - double-chevron-left
+  - double-chevron-right
+  - double-chevron-up
 
 - name: Gesture
   icons:

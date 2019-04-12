@@ -127,6 +127,10 @@
 ./dist/doctype-sgm_24.svg
 ./dist/doctype-xls_24.svg
 ./dist/dont_24.svg
+./dist/double-chevron-down_24.svg
+./dist/double-chevron-left_24.svg
+./dist/double-chevron-right_24.svg
+./dist/double-chevron-up_24.svg
 ./dist/download_24.svg
 ./dist/drafting-compass_24.svg
 ./dist/drafting-compass_32.svg
