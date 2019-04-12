@@ -1,6 +1,6 @@
 {
   "name": "@fishtank/icons-vue",
-  "version": "3.11.0",
+  "version": "3.12.0",
   "description": "Importable VueJS components for all icons in @fishtank/icons",
   "main": "lib/icons.js",
   "module": "lib-esm/icons.js",
