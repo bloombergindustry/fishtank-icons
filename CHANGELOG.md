@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.12.0"></a>
+# [3.12.0](https://github.com/bloombergbna/fishtank-icons/compare/v3.11.0...v3.12.0) (2019-04-12)
+
+
+### Features
+
+* added double-chevron icons ([7b24db2](https://github.com/bloombergbna/fishtank-icons/commit/7b24db2))
+
+
+
 <a name="3.11.0"></a>
 # [3.11.0](https://github.com/bloombergbna/fishtank-icons/compare/v3.10.0...v3.11.0) (2019-02-21)
 
