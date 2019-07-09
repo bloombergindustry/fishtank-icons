@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.13.0"></a>
+# [3.13.0](https://github.com/bloombergbna/fishtank-icons/compare/v3.12.0...v3.13.0) (2019-07-09)
+
+
+### Features
+
+* Added award_24.svg; Updated package vulnerability, based on github alert. ([a5349a1](https://github.com/bloombergbna/fishtank-icons/commit/a5349a1))
+
+
+
 <a name="3.12.0"></a>
 # [3.12.0](https://github.com/bloombergbna/fishtank-icons/compare/v3.11.0...v3.12.0) (2019-04-12)
 

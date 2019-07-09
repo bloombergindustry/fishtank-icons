@@ -1,6 +1,6 @@
 {
   "name": "@fishtank/icons",
-  "version": "3.12.0",
+  "version": "3.13.0",
   "description": "The Fishtank Design System's SVG icons.",
   "scripts": {
     "clean": "rm -rf ./dist manifest.txt",
